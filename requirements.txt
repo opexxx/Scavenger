@@ -21,7 +21,7 @@ ndg-httpsclient==0.5.1
 networkx==2.2
 numpy==1.16.0
 oauthlib==3.0.1
-Pillow==5.4.1
+Pillow==9.0.1
 pyasn1==0.4.5
 pycparser==2.19
 pyinotify==0.9.6
