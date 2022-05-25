@@ -25,7 +25,7 @@ Pillow==5.4.1
 pyasn1==0.4.5
 pycparser==2.19
 pyinotify==0.9.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.0.0
 pyparsing==2.3.1
 pypng==0.0.19
