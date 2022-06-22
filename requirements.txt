@@ -19,7 +19,7 @@ lxml==4.3.0
 matplotlib==2.2.3
 ndg-httpsclient==0.5.1
 networkx==2.2
-numpy==1.16.0
+numpy==1.22.0
 oauthlib==3.0.1
 Pillow==5.4.1
 pyasn1==0.4.5
